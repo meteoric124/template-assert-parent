@@ -1,6 +1,6 @@
 Package.describe({
     name: 'meteoric124:template-assert-parent',
-    version: '0.1.0-alpha.1',
+    version: '0.1.0-alpha.2',
     // Brief, one-line summary of the package.
     summary: 'A simple package that help enforces template\'s parent template.',
     // URL to the Git repository containing the source code for this package.
